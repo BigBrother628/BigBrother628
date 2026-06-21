@@ -1,37 +1,43 @@
 # BigBrother628
+
 Hi there 👋
 
-I'm Loginov Maksim, a DevOps with 3+ years of experience building high-load systems.
-🔭 What I'm working on
+I'm **Loginov Maksim** — a DevOps with 3+ years of experience building high-load systems.
 
-    Leading development - a high-load data processing service with 99.95% availability
+---
 
-🌱 Currently learning
+## 🔭 What I'm working on
 
-    Go programming language and its ecosystem
-    Modern frontend development
+- Leading development of a high-load data processing service with **99.95% availability**
 
-💼 Professional highlights
+## 🌱 Currently learning
 
-    Boosted system availability from 99.5% to 99.95%
-    Reduced technical debt by 46%
-    Implemented weekly release cycles for faster delivery
-    Expert in Java, Spring Boot, PostgreSQL, Kafka, Kubernetes
+- Go programming language and its ecosystem
+- Modern frontend development
 
-💬 Ask me about
+## 💼 Professional highlights
 
-    High-load backend systems and performance optimization
-    Java enterprise development and Spring framework
-    Team leadership and engineering practices
-    Microservices architecture and DDD
+- Boosted system availability from 99.5% → 99.95%
+- Reduced technical debt by 46%
+- Implemented weekly release cycles for faster delivery
+- Expert in Java, Spring Boot, PostgreSQL, Kafka, Kubernetes
 
-📫 How to reach me
+## 💬 Ask me about
 
-    Telegram: @sudo_no_sleep
-    Email: *
+- High-load backend systems and performance optimization
+- Java enterprise development and Spring framework
+- Team leadership and engineering practices
+- Microservices architecture and DDD
 
-⚡ Tech stack
+## 📫 How to reach me
 
-Kubernetes Docker Git Nginx PostgreSQL Java Go Spring Boot Kafka React 
+- Telegram: [@sudo_no_sleep](https://t.me/sudo_no_sleep)
+- Email: \*
 
-Always learning, always building 🚀
+## ⚡ Tech stack
+
+`Kubernetes` `Docker` `Git` `Nginx` `PostgreSQL` `Java` `Go` `Spring Boot` `Kafka` `React`
+
+---
+
+<p align="center">Always learning, always building 🚀</p>
