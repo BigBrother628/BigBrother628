@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm **Loginov Maksim** — a DevOps with 3+ years of experience building high-load systems.
+I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-load systems.
 
 ---
 
