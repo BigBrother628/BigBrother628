@@ -6,7 +6,7 @@ I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-
 ---
 
 <div align="center">
-    <img src="https://github.com/BigBrother628/BigBrother628/blob/main/banner.gif?raw=true" alt="BigBrother628 Banner" width="100%">
+    <img src="https://github.com/BigBrother628/BigBrother628/blob/main/banner.gif.gif?raw=true" alt="BigBrother628 Banner" width="100%">
 </div>
 
 ---
