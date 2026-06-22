@@ -3,10 +3,13 @@
 Hi there 👋
 
 I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-load systems.
+---
+
+<div align="center">
+    <img src="https://github.com/BigBrother628/BigBrother628/blob/main/banner.gif?raw=true" alt="BigBrother628 Banner" width="100%">
+</div>
 
 ---
-<img src="https://github.com/BigBrother628/BigBrother628/blob/main/banner.gif?raw=true">
-
 ## 🔭 What I'm working on
 
 - Leading development of a high-load data processing service with **99.95% availability**
