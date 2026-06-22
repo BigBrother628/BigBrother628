@@ -5,10 +5,7 @@ Hi there 👋
 I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-load systems.
 
 ---
-<div align="center">
-    <img src="https://raw.githubusercontent.com/BigBrother628/BigBrother628/main/banner.gif" alt="BigBrother628 Banner" width="100%">
-</div>
----
+<img src="https://github.com/BigBrother628/BigBrother628/blob/main/banner.gif?raw=true">
 
 ## 🔭 What I'm working on
 
