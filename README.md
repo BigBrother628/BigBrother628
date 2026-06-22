@@ -1,8 +1,3 @@
-# BigBrother628
-
-Hi there 👋
-
-I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-load systems.
 ---
 
 <div align="center">
@@ -10,6 +5,8 @@ I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-
 </div>
 
 ---
+I'm **Ivanov Vladislav** — a DevOps with 3+ years of experience building high-load systems.
+
 ## 🔭 What I'm working on
 
 - Leading development of a high-load data processing service with **99.95% availability**
